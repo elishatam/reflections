@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+   It creates an empty Git repository and doesn't commit anything.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+    The staging area is between the working directory and repository. You place the individual files you want to add into the working directory. Then you commit all of these files into the repository once.
