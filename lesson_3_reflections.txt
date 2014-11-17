@@ -4,5 +4,10 @@ When I am working with others on a project and need to share and merge our work.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date wtih your remote repository?
 I could be working on a file and if there's a remote change on that same file and it updates my file automatically, it could mess up my work on the current file.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Branches splits off from the master within a repository.
+Clones are copies of a repository
+Forks are copies of someone's repository. You create a fork on GitHub,
+
 
 
