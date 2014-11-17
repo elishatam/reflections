@@ -8,4 +8,13 @@ How can you use the staging area to make sure you have one commit per logical ch
 Even if you have changed multiple files in the Working Directory, you don't have to commit all of those changes. To commit just some of the files for a logical change, you can move them into the staging area and just commmit those.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-Create branches when you want to experiment with a new feature or you want to create a new version of something. Branches help because it doesn't change the main baster branch and lets you try different things
+Create branches when you want to experiment with a new feature or you want to create a new version of something. Branches help because it doesn't change the main baster branch and lets you try different things.
+
+How do the diagrams help you visualize the branch structure?
+I can see where in the structure branches segment off and I can see which branches have which commits.
+
+What is the result of merging 2 branches together? Why do we represent it in the diagram the way we do?
+After merging 2 branches, all the commits of the 2 branches are reachable from 1 branch. The diagram shows that branches combine together at 1 commit
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+For merges of independent functions and files, Git's automatic merging is really nice and simple. Having to do merges manually takes a lot more time.
