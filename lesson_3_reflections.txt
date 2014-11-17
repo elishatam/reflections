@@ -9,5 +9,6 @@ Branches splits off from the master within a repository.
 Clones are copies of a repository
 Forks are copies of someone's repository. You create a fork on GitHub,
 
-
+What is the benefit of having a copy of the last known state of the remote stored locally?
+So you can make your local changes and then easily merge those with the local remote. You can then merge this local remote with the online remote. Even if changes happened to the remote since then, you won't have conflicts.
 
