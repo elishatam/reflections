@@ -12,3 +12,6 @@ Forks are copies of someone's repository. You create a fork on GitHub,
 What is the benefit of having a copy of the last known state of the remote stored locally?
 So you can make your local changes and then easily merge those with the local remote. You can then merge this local remote with the online remote. Even if changes happened to the remote since then, you won't have conflicts.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+W/o Git or GitHub, I'd have to physically be with the person or we'd have to communicate through email or chat. We could keep saving local copies and would need to keep track of each other's changes.
+
